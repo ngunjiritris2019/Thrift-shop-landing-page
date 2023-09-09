@@ -1,5 +1,4 @@
 body {
-  font-family: "Lato", sans-serif;
   background: linear-gradient(to bottom right, #e7ab9c, #ffffff);
 }
 header {
@@ -37,6 +36,10 @@ footer {
   background-color: #e7ab9c;
   border: 1px solid #d9a294;
 }
+header h1 {
+  font-family: "Niconne", cursive;
+  font-size: 55px;
+}
 h1 {
   display: inline-block;
 }
@@ -64,6 +67,7 @@ h1 {
   display: block;
   text-align: center;
   margin: 84px 40px;
+  font-family: "Oxygen", sans-serif;
 }
 .shopandsell {
   display: flex;
