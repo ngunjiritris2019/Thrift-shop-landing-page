@@ -6,7 +6,8 @@ header {
   display: block;
   text-align: center;
 }
-button {
+.openshop button,
+.shopandsell button {
   background-color: #fff;
   color: #e7ab9c;
   border: 1px solid #e7ab9c;
@@ -47,7 +48,7 @@ h1 {
 .clothes img {
   border-radius: 14px;
 }
-#no-bullets {
+#main-menu {
   list-style-type: none;
   width: 35vw;
   display: flex;
@@ -72,6 +73,10 @@ h1 {
 }
 .shopandsell p {
   margin-bottom: 10px;
+}
+.openshop ul {
+  list-style-type: none;
+  line-height: 2.5;
 }
 #nav-bar {
   position: fixed;
