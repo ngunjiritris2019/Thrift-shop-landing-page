@@ -44,6 +44,9 @@ h1 {
   top: 0;
   left: 0;
 }
+.clothes img {
+  border-radius: 14px;
+}
 #no-bullets {
   list-style-type: none;
   width: 35vw;
@@ -54,6 +57,7 @@ h1 {
 .container {
   display: block;
   text-align: center;
+  margin: 84px 40px;
 }
 .shopandsell {
   display: flex;
